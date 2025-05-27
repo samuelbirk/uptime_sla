@@ -1,0 +1,18 @@
+{
+  "name": "uptime-sla",
+  "version": "0.0.1",
+  "description": "Uptime SLA heatmap using Stencil",
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@stencil/core": "^2.22.0",
+    "d3": "^7.8.2",
+    "@types/d3": "^7.4.1",
+    "snowflake-sdk": "^1.7.14"
+  }
+}
