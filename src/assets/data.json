@@ -1,0 +1,5 @@
+[
+  {"name": "Service A", "uptime": 99.5},
+  {"name": "Service B", "uptime": 99.9},
+  {"name": "Service C", "uptime": 98.7}
+]

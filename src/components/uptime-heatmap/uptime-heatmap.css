@@ -1,0 +1,23 @@
+:host {
+  display: block;
+  font-family: Arial, sans-serif;
+}
+
+.heatmap {
+  margin-top: 1rem;
+}
+
+.row {
+  display: flex;
+  margin-bottom: 4px;
+}
+
+.name {
+  width: 120px;
+  font-weight: bold;
+}
+
+.cell {
+  padding: 4px 8px;
+  color: #fff;
+}
